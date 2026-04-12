@@ -17,7 +17,7 @@ As a learner, my goal was to understand how all the different steps of a data sc
 - Evaluating and comparing model performance  
 - Making data-driven decisions
 
-## Tools Used
+## Key Tools Used
 
 - Python  
 - Pandas, NumPy  
